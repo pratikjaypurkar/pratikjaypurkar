@@ -4,8 +4,13 @@
 
 Check Out My Profile Here: https://pratikjaypurkar.carrd.co/
 
-⚡ Github Stats
+<details>
+ <summary><b> ⚡ Github Stats </b></summary>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratikjaypurkar)](https://github.com/pratikjaypurkar/github-readme-stats)
+
+</details>
+
+  
 
 <!---
 pratikjaypurkar/pratikjaypurkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
