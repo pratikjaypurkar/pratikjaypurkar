@@ -5,17 +5,9 @@
   </center>
  
 <div align="center">
-<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-<a href="https://arbeitnow.com/?utm_source=awesome-github-profile-readme">
-<img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=arbeitnow&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
-
 <a href="https://www.youtube.com/c/HackTeachz?sub_confirmation=1">
-      <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/></a> 
-    <a href="https://www.youtube.com/c/HackTeachz">
+      <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/></a><a href="https://www.youtube.com/c/HackTeachz">
  
-<a href="https://twitter.com/pratikjaypurkar" ><img src="https://img.shields.io/twitter/follow/abhisheknaiidu.svg?style=social" /> </a>
-<br>
-
 <i>A curated list of awesome Github Profile READMEs</i>
 
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/></a>
