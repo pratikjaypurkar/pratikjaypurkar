@@ -4,7 +4,8 @@
 
 Check Out My Profile Here: https://setusree.carrd.co/
 
-<summary><b><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji>  Github Stats</b></summary>
+⚡ Github Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?pratikjaypurkar=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 pratikjaypurkar/pratikjaypurkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
