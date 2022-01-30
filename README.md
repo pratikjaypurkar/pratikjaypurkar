@@ -5,9 +5,9 @@
 Check Out My Profile Here: https://pratikjaypurkar.carrd.co/
 
 <details>
- <summary><b> ⚡ Github Stats </b></summary>
+ <summary><b> ⚡ Github Stats </b></summary></details>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikjaypurkar&hide=javascript,html)](https://github.com/pratikjaypurkar/github-readme-stats)
-</details>
+
 
 <!---
 pratikjaypurkar/pratikjaypurkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
