@@ -16,18 +16,16 @@
       <img alt="Tw" title="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/pratikjaypurkar/">
       <img alt="LI" title="Linkdin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-<a href="https://gdsc.community.dev/u/m6aqdp/#/about">
-      <img alt="Google" title="Google Dev"/></a>  
  
  
 <i>A curated list of awesome Github Profile READMEs</i>
 
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme" alt="Forks Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/abhisheknaiidu/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/abhisheknaiidu/awesome-github-profile-readme" alt="Issues Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/abhisheknaiidu/awesome-github-profile-readme?color=2b9348"></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
+<a href="https://github.com/pratikjaypurkar/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/pratikjaypurkar/awesome-github-profile-readme" alt="Stars Badge"/></a>
+<a href="https://github.com/pratikjaypurkar/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/pratikjaypurkar/awesome-github-profile-readme" alt="Forks Badge"/></a>
+<a href="https://github.com/pratikjaypurkar/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/pratikjaypurkar/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/pratikjaypurkar/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/pratikjaypurkar/awesome-github-profile-readme" alt="Issues Badge"/></a>
+<a href="https://github.com/pratikjaypurkar/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/pratikjaypurkar/awesome-github-profile-readme?color=2b9348"></a>
+<a href="https://github.com/pratikjaypurkar/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/pratikjaypurkar/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
  </center>
 <div align="left">
 - 👋 Hi, I’m @pratikjaypurkar
