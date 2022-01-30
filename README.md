@@ -22,7 +22,7 @@
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/abhisheknaiidu/awesome-github-profile-readme?color=2b9348"></a>
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
  </center>
-
+<div align="left">
 - 👋 Hi, I’m @pratikjaypurkar
 - 👀 I’m interested in java , javascript, web development and Ethical Hacking
 - 🌱 I’m currently learning Computer Engg
