@@ -5,12 +5,9 @@
 Check Out My Profile Here: https://pratikjaypurkar.carrd.co/
 
 <details>
- <summary><b> ⚡ Github Stats </b></summary>
-![](https://github-readme-stats.vercel.app/api?username=pratikjaypurkar)](https://github.com/pratikjaypurkar/github-readme-stats)
 
+<summary><b><g-emoji class="g-emoji" alias="zap" fallback-src="https://github-readme-stats.vercel.app/api?username=pratikjaypurkar)](https://github.com/pratikjaypurkar/github-readme-stats">⚡</g-emoji>  Github Stats</b></summary>
 </details>
-
-  
 
 <!---
 pratikjaypurkar/pratikjaypurkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
