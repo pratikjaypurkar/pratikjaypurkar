@@ -4,8 +4,7 @@
 
 Check Out My Profile Here: https://pratikjaypurkar.carrd.co/
 
-<details>
- <summary><b> ⚡ Github Stats </b></summary></details>
+<b>⚡ Github Stats </b>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikjaypurkar&hide=javascript,html)](https://github.com/pratikjaypurkar/github-readme-stats)
 
 
