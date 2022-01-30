@@ -8,6 +8,7 @@ Check Out My Profile Here: https://pratikjaypurkar.carrd.co/
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratikjaypurkar)](https://github.com/pratikjaypurkar/github-readme-stats)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikjaypurkar&hide=javascript,html)](https://github.com/pratikjaypurkar/github-readme-stats)
 
 
