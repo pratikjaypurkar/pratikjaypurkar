@@ -8,6 +8,9 @@
 <a href="https://www.youtube.com/c/HackTeachz?sub_confirmation=1">
       <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/></a><a href="https://www.youtube.com/c/HackTeachz">
  
+<a href="https://www.youtube.com/c/HackTeachz?sub_confirmation=1">
+      <img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+ 
 <i>A curated list of awesome Github Profile READMEs</i>
 
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/></a>
