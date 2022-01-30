@@ -1,7 +1,7 @@
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">GitHub Readme Stats</h2>
- <p align="center">Get dynamically generated GitHub stats on your readmes!</p>
+ <img width="100px" src="https://avatars.githubusercontent.com/u/96579902?s=400&u=0152e7ca7cfb20dab618734f47cddcb95b30c791&v=4" align="center" alt="GitHub Readme Stats" />
+ <h2 align="center">Pratik Kushabrao Jaypurkar</h2>
+ <p align="center">📞 Contact Me 📞</p>
 </p>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats/actions">
