@@ -8,8 +8,17 @@
 <a href="https://www.youtube.com/c/HackTeachz?sub_confirmation=1">
       <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/></a><a href="https://www.youtube.com/c/HackTeachz">
  
-<a href="https://www.youtube.com/c/HackTeachz?sub_confirmation=1">
+<a href="https://www.instagram.com/pratikjaypurkar">
       <img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/pratikjaypurkar">
+      <img alt="FB" title="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://twitter.com/pratikjaypurkar">
+      <img alt="Tw" title="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/pratikjaypurkar/">
+      <img alt="LI" title="Linkdin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+<a href="https://gdsc.community.dev/u/m6aqdp/#/about">
+      <img alt="Google" title="Google Dev" src="https://res.cloudinary.com/startup-grind/image/upload/dpr_2.0,fl_sanitize/v1/gcs/platform-data-dsc/contentbuilder/logo_dark_stacked_5giak2X.svg"/></a>  
+ 
  
 <i>A curated list of awesome Github Profile READMEs</i>
 
