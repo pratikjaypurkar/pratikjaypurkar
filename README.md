@@ -17,7 +17,7 @@
 <a href="https://www.linkedin.com/in/pratikjaypurkar/">
       <img alt="LI" title="Linkdin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
 <a href="https://gdsc.community.dev/u/m6aqdp/#/about">
-      <img alt="Google" title="Google Dev" src="#"/></a>  
+      <img alt="Google" title="Google Dev"/></a>  
  
  
 <i>A curated list of awesome Github Profile READMEs</i>
