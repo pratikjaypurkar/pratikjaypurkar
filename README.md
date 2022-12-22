@@ -34,6 +34,7 @@
 
 Check Out My Profile Here: https://pratikjaypurkar.carrd.co/
 
+site is live at https://pratikjaypurkar.github.io/pratik/
 <b>⚡ Github Stats </b>
 
 
